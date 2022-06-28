@@ -1,3 +1,7 @@
 Códigos Java alterados.
 
+<<<<<<< HEAD
 Novos códigos...
+=======
+Novos códigos na branch01
+>>>>>>> branch01
